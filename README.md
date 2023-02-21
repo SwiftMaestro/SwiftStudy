@@ -1,2 +1,1 @@
-# SwiftStudy
-스위프트 마에스트로가 되어보자!
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Swift-Study&fontAlign=70&fontAlignY=35&color=gradient)
