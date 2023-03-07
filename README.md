@@ -11,7 +11,7 @@
 
 |김동현|이정민|주현아|최지우|
 |---|---|---|---|
-|<img src="https://velog.velcdn.com/images/bricksky/post/59d7da88-abe9-4f3d-a54b-e90d9070f7e7/image.png"  width="200" height="200">|<img src="https://velog.velcdn.com/images/bricksky/post/df2a6ca7-1d2d-4477-acdb-0873d922da9c/image.jpeg"  width="200" height="200">|<img src="https://velog.velcdn.com/images/bricksky/post/193e6c9d-1c56-4d8b-bbd4-33bfd4a4c276/image.png"  width="200" height="200">|<img src="https://user-images.githubusercontent.com/94737714/216596844-2cc0efb8-4fd1-4cd8-9af8-15b79eded0eb.png"  width="200" height="200">|
+|<img src="https://velog.velcdn.com/images/bricksky/post/59d7da88-abe9-4f3d-a54b-e90d9070f7e7/image.png"  width="200" height="200">|<img src="https://velog.velcdn.com/images/bricksky/post/df2a6ca7-1d2d-4477-acdb-0873d922da9c/image.jpeg"  width="200" height="200">|<img src="https://velog.velcdn.com/images/bricksky/post/193e6c9d-1c56-4d8b-bbd4-33bfd4a4c276/image.png"  width="200" height="200">|<img src="https://avatars.githubusercontent.com/u/102797359?v=4"  width="200" height="200">|
 
 
 
